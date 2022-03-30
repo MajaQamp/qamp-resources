@@ -113,7 +113,7 @@
                     </suiteXmlFiles>
                     <systemPropertyVariables>
                         <host>https://demo.placelab.com/</host>
-                        <username>mujanovic.maja@gmail.com</username>
+                        <username>User@usermail.com</username>
                         <password>passwordValue</password>
                     </systemPropertyVariables>
                 </configuration>
